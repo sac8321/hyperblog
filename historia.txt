@@ -2,3 +2,5 @@ Esta es una prueba de un
 archivo txt para el curso de GIT.
 
 Esta es la prueba de que entiendo GIT.
+
+A continuacion se va practicar las diferencias.
