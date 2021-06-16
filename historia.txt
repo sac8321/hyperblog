@@ -3,4 +3,4 @@ archivo txt para el curso de GIT.
 
 Esta es la prueba de que entiendo GIT.
 
-A continuacion se va practicar las diferencias.
+A continuacion se va practicar las igualdades.
