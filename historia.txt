@@ -1,4 +1,4 @@
 Esta es una prueba de un 
 archivo txt para el curso de GIT.
-
+Anita tiene 41 años y naciò en internet.
 manana nos enfocaremos en su vida como historia
