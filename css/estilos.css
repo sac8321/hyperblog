@@ -17,8 +17,18 @@ body{
     margin: 0;
     padding: 0.5em;
 }
+<<<<<<< HEAD
+#post{
+    background: white;
+    padding: 1em;
+}
 
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 
+}
 
 #cabecera#tagline
 {
@@ -39,13 +49,10 @@ body{
     font-size:20px;
 }
 
-#post{
-    background: white;
-    padding: 1em;
-}
-
-#cabecera #logo
+#footer
 {
-    width: 20px;
-    vertical-align: middle;
+background: #777;
+color: white;
+text-align: center;
+padding: 0.5em;
 }
