@@ -17,6 +17,7 @@ body{
     padding: 0.5em;
 }
 
+
 #cabecera#tagline
 {
     padding: 0 0 0 1em;
@@ -35,6 +36,7 @@ body{
 #container h1{
     font-size:20px;
 }
+
 #footer
 {
 background: #777;
